@@ -4,9 +4,6 @@ I'm Maria Rayane from Brazil, I am driven by a passion for frontend development 
 <h1 align="center">Olá 👋, sou Maria Rayane</h1>
 <h3 align="center">Desenvolvedora Frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariarayane10&label=Profile%20views&color=0e75b6&style=flat" alt="mariarayane10" /> </p>
-
-- 📫 Como entrar em contato comigo **rayanee.silva2015@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
